@@ -1,10 +1,5 @@
-node_modules/
-# User-specific files - Ignore all files starting with the letter "z"
-*.suo
+Ignore all files starting with the letter "z"
 
-# User-specific files - Ignore all files starting with the files ".env"
-*.suo
+Ignore all files starting with the files ".env"
 
-# User-specific files - Ignores a top-level directory named "artifacts"
-*.suo
-/Web/TypeScript/**/*.js
+Ignore top-level directory named "artifacts"
