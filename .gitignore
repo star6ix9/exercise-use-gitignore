@@ -1,5 +1,6 @@
-Ignore all files starting with the letter "z"
-
-Ignore all files starting with the files ".env"
-
-Ignore top-level directory named "artifacts"
+# ignore all z files
+*z
+# ignore all .env
+*[.env]
+# ignore all Artifacts
+*Artifacts
